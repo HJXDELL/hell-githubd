@@ -6,3 +6,6 @@ this is hello github master-branch
 we will finsihs this step
 1.pull the hell github branch 
 2.meger the branch to mater
+
+************
+second brach
